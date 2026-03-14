@@ -1,16 +1,16 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-14 05:52 UTC** &nbsp;|&nbsp; Total: **21** repositories
+> Last updated: **2026-03-14 06:07 UTC** &nbsp;|&nbsp; Total: **21** repositories
 
 ## Repository List
 
 | Repository | Description | Topics / Tags | Task Code | Last Updated |
 |:-----------|:------------|:--------------|:---------:|:------------:|
+| [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | Docs of LeetCode-Murphy. | `leetcode` `mkdocs-material` | - | 2026-03-14 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | TickTock-Timelapse | - | - | 2026-03-14 |
 | [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | Hi! I'm Murphy! | - | - | 2026-03-14 |
 | [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | Genealogy-Hou | - | - | 2026-03-13 |
-| [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | Docs of LeetCode-Murphy. | `leetcode` `leetcode-cpp` `mkdocs-material` | - | 2026-03-13 |
 | [watermarker](https://github.com/murphyhoucn/watermarker) | A powerful and easy-to-use watermarking tool that supports batch processing of images, custom styles, and fine-grained control. | - | - | 2026-03-13 |
 | [llm-dev](https://github.com/murphyhoucn/llm-dev) | LLM Dev | - | - | 2026-03-13 |
 | [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | A curated collection of handy Shell scripts for daily productivity and powerful terminal automation. | - | - | 2026-03-13 |
