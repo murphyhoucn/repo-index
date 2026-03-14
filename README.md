@@ -1,17 +1,18 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-14 06:48 UTC** &nbsp;|&nbsp; Total: **36** repositories
+> Last updated: **2026-03-14 07:04 UTC** &nbsp;|&nbsp; Total: **36** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `profile` | 2026-03-14 |
-| [yanputhesis-murphy](https://github.com/murphyhoucn/yanputhesis-murphy) | `thesis-latex-template` | 2026-03-14 |
-| [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | `site` | 2026-03-14 |
-| [murphyhoucn.github.io](https://github.com/murphyhoucn/murphyhoucn.github.io) | `site` | 2026-03-14 |
+| [yanputhesis-2026](https://github.com/murphyhoucn/yanputhesis-2026) | `thesis-latex-template` | 2026-03-14 |
+| [npu-thesis-petrichor](https://github.com/murphyhoucn/npu-thesis-petrichor) | - | 2026-03-14 |
+| [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | `site` `vercel` | 2026-03-14 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-14 |
 | [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
+| [murphyhoucn.github.io](https://github.com/murphyhoucn/murphyhoucn.github.io) | `site` | 2026-03-14 |
 | [academic](https://github.com/murphyhoucn/academic) | `site` | 2026-03-14 |
 | [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-03-14 |
 | [navigation](https://github.com/murphyhoucn/navigation) | `site` | 2026-03-14 |
@@ -37,7 +38,6 @@
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-14 |
 | [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | `leetcode` `mkdocs-material` | 2026-03-14 |
 | [watermarker](https://github.com/murphyhoucn/watermarker) | - | 2026-03-13 |
-| [NPU-Thesis-Petrichor](https://github.com/murphyhoucn/NPU-Thesis-Petrichor) | - | 2026-03-12 |
 | [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-11 |
 | [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-03-11 |
 | [snap-send-magic](https://github.com/murphyhoucn/snap-send-magic) | - | 2026-03-11 |
