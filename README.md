@@ -1,17 +1,21 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-14 06:45 UTC** &nbsp;|&nbsp; Total: **36** repositories
+> Last updated: **2026-03-14 06:48 UTC** &nbsp;|&nbsp; Total: **36** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `profile` | 2026-03-14 |
+| [yanputhesis-murphy](https://github.com/murphyhoucn/yanputhesis-murphy) | `thesis-latex-template` | 2026-03-14 |
+| [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | `site` | 2026-03-14 |
+| [murphyhoucn.github.io](https://github.com/murphyhoucn/murphyhoucn.github.io) | `site` | 2026-03-14 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
 | [academic](https://github.com/murphyhoucn/academic) | `site` | 2026-03-14 |
 | [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-03-14 |
 | [navigation](https://github.com/murphyhoucn/navigation) | `site` | 2026-03-14 |
 | [card](https://github.com/murphyhoucn/card) | `site` | 2026-03-14 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
 | [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` | 2026-03-14 |
 | [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
 | [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
@@ -32,17 +36,13 @@
 | [os-cls-dandelion](https://github.com/murphyhoucn/os-cls-dandelion) | `classification` `optical` `sar` | 2026-03-14 |
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-14 |
 | [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | `leetcode` `mkdocs-material` | 2026-03-14 |
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | - | 2026-03-14 |
-| [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | - | 2026-03-13 |
 | [watermarker](https://github.com/murphyhoucn/watermarker) | - | 2026-03-13 |
 | [NPU-Thesis-Petrichor](https://github.com/murphyhoucn/NPU-Thesis-Petrichor) | - | 2026-03-12 |
-| [yanputhesis-murphy](https://github.com/murphyhoucn/yanputhesis-murphy) | - | 2026-03-12 |
 | [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-11 |
 | [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-03-11 |
 | [snap-send-magic](https://github.com/murphyhoucn/snap-send-magic) | - | 2026-03-11 |
 | [memory-warp](https://github.com/murphyhoucn/memory-warp) | - | 2026-03-11 |
 | [animated-drawings-meta](https://github.com/murphyhoucn/animated-drawings-meta) | - | 2026-03-11 |
-| [murphyhoucn.github.io](https://github.com/murphyhoucn/murphyhoucn.github.io) | - | 2025-08-12 |
 
 ---
 
