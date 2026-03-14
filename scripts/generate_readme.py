@@ -22,13 +22,12 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
     repos: list[dict] = []
     page = 1
     while True:
-        # Use the authenticated /user/repos endpoint when a token is available so
-        # that private repositories are included.  Fall back to the public
-        # /users/{username}/repos endpoint when no token is present.
-        if token:
-            url = "https://api.github.com/user/repos"
-        else:
-            url = f"https://api.github.com/users/{username}/repos"
+        # Use the public /users/{username}/repos endpoint.  The GITHUB_TOKEN
+        # provided by GitHub Actions does not have the OAuth `repo` scope
+        # required by the authenticated /user/repos endpoint, so using that
+        # endpoint would result in a 403 error.  The token is still sent in the
+        # Authorization header when present for rate-limit benefits.
+        url = f"https://api.github.com/users/{username}/repos"
 
         params = {
             "per_page": 100,
@@ -53,7 +52,7 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
             print("ERROR: GitHub token is invalid or missing required permissions.", file=sys.stderr)
             sys.exit(1)
         if response.status_code == 403:
-            print("ERROR: Access forbidden. The token may lack 'repo' scope.", file=sys.stderr)
+            print("ERROR: Access forbidden. Check that the token has sufficient permissions.", file=sys.stderr)
             sys.exit(1)
         response.raise_for_status()
 
