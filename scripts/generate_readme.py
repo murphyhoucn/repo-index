@@ -22,20 +22,31 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
     repos: list[dict] = []
     page = 1
     while True:
-        # Use the public /users/{username}/repos endpoint.  The GITHUB_TOKEN
-        # provided by GitHub Actions does not have the OAuth `repo` scope
-        # required by the authenticated /user/repos endpoint, so using that
-        # endpoint would result in a 403 error.  The token is still sent in the
-        # Authorization header when present for rate-limit benefits.
-        url = f"https://api.github.com/users/{username}/repos"
-
-        params = {
-            "per_page": 100,
-            "page": page,
-            "sort": "updated",
-            "direction": "desc",
-            "type": "owner",
-        }
+        if token:
+            # Use the authenticated /user/repos endpoint when a token is
+            # available.  This returns all repositories (public, private, and
+            # internal) owned by the authenticated user, provided the token has
+            # the `repo` (or `read:repo`) scope.
+            url = "https://api.github.com/user/repos"
+            params = {
+                "per_page": 100,
+                "page": page,
+                "sort": "updated",
+                "direction": "desc",
+                "type": "owner",
+                "affiliation": "owner",
+            }
+        else:
+            # Fall back to the public endpoint when no token is provided.
+            # This only returns public repositories.
+            url = f"https://api.github.com/users/{username}/repos"
+            params = {
+                "per_page": 100,
+                "page": page,
+                "sort": "updated",
+                "direction": "desc",
+                "type": "owner",
+            }
         try:
             response = requests.get(url, headers=headers, params=params, timeout=30)
         except requests.exceptions.ConnectionError as exc:

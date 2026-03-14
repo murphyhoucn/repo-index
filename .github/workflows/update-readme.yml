@@ -31,7 +31,10 @@ jobs:
 
       - name: Generate README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Prefer a personal access token (GH_PAT) with `repo` scope so that
+          # private repositories are included in the index.  Falls back to the
+          # default GITHUB_TOKEN, which only lists public repositories.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/generate_readme.py
 
