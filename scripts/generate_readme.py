@@ -22,9 +22,13 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
     repos: list[dict] = []
     page = 1
     while True:
-        # Use /users/{username}/repos which works with the default GITHUB_TOKEN
-        # provided by GitHub Actions (no extra 'repo' scope required).
-        url = f"https://api.github.com/users/{username}/repos"
+        # Use the authenticated /user/repos endpoint when a token is available so
+        # that private repositories are included.  Fall back to the public
+        # /users/{username}/repos endpoint when no token is present.
+        if token:
+            url = "https://api.github.com/user/repos"
+        else:
+            url = f"https://api.github.com/users/{username}/repos"
 
         params = {
             "per_page": 100,
