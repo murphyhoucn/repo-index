@@ -1,46 +1,46 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-14 07:04 UTC** &nbsp;|&nbsp; Total: **36** repositories
+> Last updated: **2026-03-14 08:09 UTC** &nbsp;|&nbsp; Total: **36** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
 | [yanputhesis-2026](https://github.com/murphyhoucn/yanputhesis-2026) | `thesis-latex-template` | 2026-03-14 |
 | [npu-thesis-petrichor](https://github.com/murphyhoucn/npu-thesis-petrichor) | - | 2026-03-14 |
-| [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | `site` `vercel` | 2026-03-14 |
+| [snap-send-magic](https://github.com/murphyhoucn/snap-send-magic) | - | 2026-03-14 |
+| [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-14 |
+| [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | `leetcode` `mkdocs-material` | 2026-03-14 |
 | [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-14 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
+| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-14 |
+| [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-14 |
+| [dive-into-cv](https://github.com/murphyhoucn/dive-into-cv) | `archive` `cv` | 2026-03-14 |
+| [hsi-sr-sspsr-reimpl](https://github.com/murphyhoucn/hsi-sr-sspsr-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
+| [hsi-sr-mcnet-reimpl](https://github.com/murphyhoucn/hsi-sr-mcnet-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
+| [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
+| [hsi-sr-dmgasr-reimpl](https://github.com/murphyhoucn/hsi-sr-dmgasr-reimpl) | `diffusion-model` `hsi` `reimplementation` `sr` | 2026-03-14 |
+| [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimpl` | 2026-03-14 |
+| [llm-dev](https://github.com/murphyhoucn/llm-dev) | `llm` | 2026-03-14 |
+| [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
+| [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
+| [hsi-fsc](https://github.com/murphyhoucn/hsi-fsc) | `classification` `hsi` | 2026-03-14 |
+| [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` | 2026-03-14 |
+| [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-03-14 |
+| [dip-cuda](https://github.com/murphyhoucn/dip-cuda) | `cuda` | 2026-03-14 |
+| [hsi-sr-overview](https://github.com/murphyhoucn/hsi-sr-overview) | `hsi` `overview` `sr` | 2026-03-14 |
+| [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | `site` `vercel` | 2026-03-14 |
 | [murphyhoucn.github.io](https://github.com/murphyhoucn/murphyhoucn.github.io) | `site` | 2026-03-14 |
 | [academic](https://github.com/murphyhoucn/academic) | `site` | 2026-03-14 |
 | [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-03-14 |
 | [navigation](https://github.com/murphyhoucn/navigation) | `site` | 2026-03-14 |
 | [card](https://github.com/murphyhoucn/card) | `site` | 2026-03-14 |
-| [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` | 2026-03-14 |
-| [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
-| [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
-| [llm-dev](https://github.com/murphyhoucn/llm-dev) | `llm` | 2026-03-14 |
-| [dip-cuda](https://github.com/murphyhoucn/dip-cuda) | `cuda` | 2026-03-14 |
-| [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimpl` | 2026-03-14 |
-| [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-14 |
-| [dive-into-cv](https://github.com/murphyhoucn/dive-into-cv) | `archive` `cv` | 2026-03-14 |
-| [hsi-fsc](https://github.com/murphyhoucn/hsi-fsc) | `classification` `hsi` | 2026-03-14 |
 | [SR_Benchmark](https://github.com/murphyhoucn/SR_Benchmark) | `benchmark` `hsi` `sr` | 2026-03-14 |
-| [hsi-sr-overview](https://github.com/murphyhoucn/hsi-sr-overview) | `hsi` `overview` `sr` | 2026-03-14 |
-| [hsi-sr-sspsr-reimpl](https://github.com/murphyhoucn/hsi-sr-sspsr-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
-| [hsi-sr-mcnet-reimpl](https://github.com/murphyhoucn/hsi-sr-mcnet-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
-| [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
-| [hsi-sr-dmgasr-reimpl](https://github.com/murphyhoucn/hsi-sr-dmgasr-reimpl) | `diffusion-model` `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [hsi-sr-nocturne](https://github.com/murphyhoucn/hsi-sr-nocturne) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
-| [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-14 |
 | [os-cls-dandelion](https://github.com/murphyhoucn/os-cls-dandelion) | `classification` `optical` `sar` | 2026-03-14 |
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-14 |
-| [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | `leetcode` `mkdocs-material` | 2026-03-14 |
 | [watermarker](https://github.com/murphyhoucn/watermarker) | - | 2026-03-13 |
-| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-11 |
-| [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-03-11 |
-| [snap-send-magic](https://github.com/murphyhoucn/snap-send-magic) | - | 2026-03-11 |
 | [memory-warp](https://github.com/murphyhoucn/memory-warp) | - | 2026-03-11 |
 | [animated-drawings-meta](https://github.com/murphyhoucn/animated-drawings-meta) | - | 2026-03-11 |
 
