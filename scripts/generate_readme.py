@@ -11,12 +11,11 @@ import requests
 from datetime import datetime, timezone
 
 
+_AUTHENTICATED_REPOS_URL = "https://api.github.com/user/repos"
+
+
 def fetch_repos(username: str, token: str | None = None) -> list[dict]:
     """Fetch all repositories for a given GitHub username."""
-    headers = {"Accept": "application/vnd.github.v3+json"}
-    if token:
-        headers["Authorization"] = f"token {token}"
-
     repos: list[dict] = []
     page = 1
     while True:
@@ -25,25 +24,23 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
             # available.  This returns all repositories (public, private, and
             # internal) owned by the authenticated user, provided the token has
             # the `repo` (or `read:repo`) scope.
-            url = "https://api.github.com/user/repos"
-            params = {
-                "per_page": 100,
-                "page": page,
-                "sort": "updated",
-                "direction": "desc",
-                "type": "owner",
+            url = _AUTHENTICATED_REPOS_URL
+            headers = {
+                "Accept": "application/vnd.github.v3+json",
+                "Authorization": f"token {token}",
             }
         else:
             # Fall back to the public endpoint when no token is provided.
             # This only returns public repositories.
             url = f"https://api.github.com/users/{username}/repos"
-            params = {
-                "per_page": 100,
-                "page": page,
-                "sort": "updated",
-                "direction": "desc",
-                "type": "owner",
-            }
+            headers = {"Accept": "application/vnd.github.v3+json"}
+        params = {
+            "per_page": 100,
+            "page": page,
+            "sort": "updated",
+            "direction": "desc",
+            "type": "owner",
+        }
         try:
             response = requests.get(url, headers=headers, params=params, timeout=30)
         except requests.exceptions.ConnectionError as exc:
@@ -60,6 +57,21 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
             print("ERROR: GitHub token is invalid or missing required permissions.", file=sys.stderr)
             sys.exit(1)
         if response.status_code == 403:
+            if token and url == _AUTHENTICATED_REPOS_URL:
+                # The token (e.g. the default GITHUB_TOKEN) lacks the `repo`
+                # scope needed for the authenticated /user/repos endpoint.
+                # Fall back to the public endpoint, which only returns public
+                # repositories but doesn't require special token permissions.
+                print(
+                    "WARNING: Authenticated /user/repos endpoint returned 403 "
+                    "(token may lack 'repo' scope). Falling back to public endpoint "
+                    "(only public repositories will be listed).",
+                    file=sys.stderr,
+                )
+                token = None
+                repos = []
+                page = 1
+                continue
             print("ERROR: Access forbidden. Check that the token has sufficient permissions.", file=sys.stderr)
             sys.exit(1)
         response.raise_for_status()
