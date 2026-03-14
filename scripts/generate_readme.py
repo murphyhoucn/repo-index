@@ -3,8 +3,6 @@
 Generate README.md with a table index of all repositories in the GitHub account.
 
 Reads GITHUB_TOKEN and GITHUB_USERNAME from environment variables.
-Topics matching the pattern 'task-*' are treated as task codes;
-all other topics are displayed as regular tags.
 """
 
 import os
@@ -34,7 +32,6 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
                 "sort": "updated",
                 "direction": "desc",
                 "type": "owner",
-                "affiliation": "owner",
             }
         else:
             # Fall back to the public endpoint when no token is provided.
@@ -76,25 +73,9 @@ def fetch_repos(username: str, token: str | None = None) -> list[dict]:
     return repos
 
 
-def format_topics(topics: list[str]) -> tuple[str, str]:
-    """
-    Split topics into task codes (task-*) and regular tags in a single pass.
-
-    Returns:
-        (tags_str, task_code_str) both formatted as Markdown inline code spans.
-    """
-    task_codes: list[str] = []
-    other_topics: list[str] = []
-    for t in topics:
-        if t.lower().startswith("task-"):
-            task_codes.append(t)
-        else:
-            other_topics.append(t)
-
-    tags_str = " ".join(f"`{t}`" for t in other_topics) if other_topics else "-"
-    task_code_str = " ".join(f"`{t}`" for t in task_codes) if task_codes else "-"
-
-    return tags_str, task_code_str
+def format_topics(topics: list[str]) -> str:
+    """Format topics as Markdown inline code spans."""
+    return " ".join(f"`{t}`" for t in topics) if topics else "-"
 
 
 def generate_readme(repos: list[dict], username: str) -> str:
@@ -110,25 +91,21 @@ def generate_readme(repos: list[dict], username: str) -> str:
         "",
         "## Repository List",
         "",
-        "| Repository | Description | Topics / Tags | Task Code | Last Updated |",
-        "|:-----------|:------------|:--------------|:---------:|:------------:|",
+        "| Repository | Topics / Tags | Last Updated |",
+        "|:-----------|:--------------|:------------:|",
     ]
 
     for repo in repos:
         name = repo.get("name", "")
         url = repo.get("html_url", "")
-        description = (repo.get("description") or "").strip() or "-"
         topics: list[str] = repo.get("topics") or []
         updated_raw: str = repo.get("updated_at") or ""
         updated_at = updated_raw[:10] if updated_raw else "-"
 
-        # Escape pipe characters in description to avoid breaking the Markdown table.
-        description = description.replace("|", "\\|")
-
-        tags_str, task_code_str = format_topics(topics)
+        tags_str = format_topics(topics)
 
         lines.append(
-            f"| [{name}]({url}) | {description} | {tags_str} | {task_code_str} | {updated_at} |"
+            f"| [{name}]({url}) | {tags_str} | {updated_at} |"
         )
 
     lines.append("")
