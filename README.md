@@ -1,12 +1,17 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-14 06:39 UTC** &nbsp;|&nbsp; Total: **36** repositories
+> Last updated: **2026-03-14 06:45 UTC** &nbsp;|&nbsp; Total: **36** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [academic](https://github.com/murphyhoucn/academic) | `site` | 2026-03-14 |
+| [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-03-14 |
+| [navigation](https://github.com/murphyhoucn/navigation) | `site` | 2026-03-14 |
+| [card](https://github.com/murphyhoucn/card) | `site` | 2026-03-14 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
 | [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` | 2026-03-14 |
 | [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
 | [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
@@ -24,7 +29,6 @@
 | [hsi-sr-dmgasr-reimpl](https://github.com/murphyhoucn/hsi-sr-dmgasr-reimpl) | `diffusion-model` `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [hsi-sr-nocturne](https://github.com/murphyhoucn/hsi-sr-nocturne) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-14 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
 | [os-cls-dandelion](https://github.com/murphyhoucn/os-cls-dandelion) | `classification` `optical` `sar` | 2026-03-14 |
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-14 |
 | [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | `leetcode` `mkdocs-material` | 2026-03-14 |
@@ -38,11 +42,7 @@
 | [snap-send-magic](https://github.com/murphyhoucn/snap-send-magic) | - | 2026-03-11 |
 | [memory-warp](https://github.com/murphyhoucn/memory-warp) | - | 2026-03-11 |
 | [animated-drawings-meta](https://github.com/murphyhoucn/animated-drawings-meta) | - | 2026-03-11 |
-| [card](https://github.com/murphyhoucn/card) | - | 2026-03-02 |
-| [navigation](https://github.com/murphyhoucn/navigation) | - | 2026-03-01 |
-| [blog](https://github.com/murphyhoucn/blog) | - | 2026-03-01 |
 | [murphyhoucn.github.io](https://github.com/murphyhoucn/murphyhoucn.github.io) | - | 2025-08-12 |
-| [academic](https://github.com/murphyhoucn/academic) | - | 2025-06-01 |
 
 ---
 
