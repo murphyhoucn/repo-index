@@ -1,12 +1,14 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-14 08:10 UTC** &nbsp;|&nbsp; Total: **36** repositories
+> Last updated: **2026-03-15 01:48 UTC** &nbsp;|&nbsp; Total: **37** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
+| [academic-cv](https://github.com/murphyhoucn/academic-cv) | `curriculum-vitae` `latex-template` `resume` | 2026-03-14 |
 | [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-14 |
 | [yanputhesis-2026](https://github.com/murphyhoucn/yanputhesis-2026) | `thesis-latex-template` | 2026-03-14 |
 | [npu-thesis-petrichor](https://github.com/murphyhoucn/npu-thesis-petrichor) | - | 2026-03-14 |
@@ -19,7 +21,6 @@
 | [dive-into-cv](https://github.com/murphyhoucn/dive-into-cv) | `archive` `cv` | 2026-03-14 |
 | [hsi-sr-sspsr-reimpl](https://github.com/murphyhoucn/hsi-sr-sspsr-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [hsi-sr-mcnet-reimpl](https://github.com/murphyhoucn/hsi-sr-mcnet-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
-| [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
 | [hsi-sr-dmgasr-reimpl](https://github.com/murphyhoucn/hsi-sr-dmgasr-reimpl) | `diffusion-model` `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimpl` | 2026-03-14 |
 | [llm-dev](https://github.com/murphyhoucn/llm-dev) | `llm` | 2026-03-14 |
