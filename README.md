@@ -1,18 +1,19 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-16 01:19 UTC** &nbsp;|&nbsp; Total: **37** repositories
+> Last updated: **2026-03-16 01:50 UTC** &nbsp;|&nbsp; Total: **37** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-16 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-16 |
 | [hsi-sr-ethereal](https://github.com/murphyhoucn/hsi-sr-ethereal) | `benchmark` `hsi` `sr` | 2026-03-15 |
 | [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-15 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-15 |
 | [academic-cv](https://github.com/murphyhoucn/academic-cv) | `curriculum-vitae` `latex-template` `resume` | 2026-03-15 |
 | [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-15 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-15 |
 | [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
 | [yanputhesis-2026](https://github.com/murphyhoucn/yanputhesis-2026) | `thesis-latex-template` | 2026-03-14 |
 | [npu-thesis-petrichor](https://github.com/murphyhoucn/npu-thesis-petrichor) | - | 2026-03-14 |
@@ -23,7 +24,6 @@
 | [hsi-sr-sspsr-reimpl](https://github.com/murphyhoucn/hsi-sr-sspsr-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [hsi-sr-mcnet-reimpl](https://github.com/murphyhoucn/hsi-sr-mcnet-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [hsi-sr-dmgasr-reimpl](https://github.com/murphyhoucn/hsi-sr-dmgasr-reimpl) | `diffusion-model` `hsi` `reimplementation` `sr` | 2026-03-14 |
-| [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimpl` | 2026-03-14 |
 | [llm-dev](https://github.com/murphyhoucn/llm-dev) | `llm` | 2026-03-14 |
 | [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
 | [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
