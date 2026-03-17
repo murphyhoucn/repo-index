@@ -1,19 +1,20 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-16 01:50 UTC** &nbsp;|&nbsp; Total: **37** repositories
+> Last updated: **2026-03-17 01:26 UTC** &nbsp;|&nbsp; Total: **37** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
-| [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-16 |
+| [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-16 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-16 |
 | [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-16 |
+| [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-16 |
 | [hsi-sr-ethereal](https://github.com/murphyhoucn/hsi-sr-ethereal) | `benchmark` `hsi` `sr` | 2026-03-15 |
 | [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-15 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-15 |
 | [academic-cv](https://github.com/murphyhoucn/academic-cv) | `curriculum-vitae` `latex-template` `resume` | 2026-03-15 |
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-15 |
 | [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
 | [yanputhesis-2026](https://github.com/murphyhoucn/yanputhesis-2026) | `thesis-latex-template` | 2026-03-14 |
 | [npu-thesis-petrichor](https://github.com/murphyhoucn/npu-thesis-petrichor) | - | 2026-03-14 |
@@ -40,7 +41,6 @@
 | [card](https://github.com/murphyhoucn/card) | `site` | 2026-03-14 |
 | [hsi-sr-nocturne](https://github.com/murphyhoucn/hsi-sr-nocturne) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
 | [os-cls-dandelion](https://github.com/murphyhoucn/os-cls-dandelion) | `classification` `optical` `sar` | 2026-03-14 |
-| [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-14 |
 | [watermarker](https://github.com/murphyhoucn/watermarker) | - | 2026-03-13 |
 | [memory-warp](https://github.com/murphyhoucn/memory-warp) | - | 2026-03-11 |
 | [animated-drawings-meta](https://github.com/murphyhoucn/animated-drawings-meta) | - | 2026-03-11 |
