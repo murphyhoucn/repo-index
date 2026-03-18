@@ -1,15 +1,16 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-17 01:26 UTC** &nbsp;|&nbsp; Total: **37** repositories
+> Last updated: **2026-03-18 01:43 UTC** &nbsp;|&nbsp; Total: **37** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-17 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-17 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-17 |
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-16 |
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-16 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-16 |
 | [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-16 |
 | [hsi-sr-ethereal](https://github.com/murphyhoucn/hsi-sr-ethereal) | `benchmark` `hsi` `sr` | 2026-03-15 |
 | [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-15 |
@@ -20,7 +21,6 @@
 | [npu-thesis-petrichor](https://github.com/murphyhoucn/npu-thesis-petrichor) | - | 2026-03-14 |
 | [snap-send-magic](https://github.com/murphyhoucn/snap-send-magic) | - | 2026-03-14 |
 | [leetcode-murphy](https://github.com/murphyhoucn/leetcode-murphy) | `leetcode` `mkdocs-material` | 2026-03-14 |
-| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-14 |
 | [dive-into-cv](https://github.com/murphyhoucn/dive-into-cv) | `archive` `cv` | 2026-03-14 |
 | [hsi-sr-sspsr-reimpl](https://github.com/murphyhoucn/hsi-sr-sspsr-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
 | [hsi-sr-mcnet-reimpl](https://github.com/murphyhoucn/hsi-sr-mcnet-reimpl) | `hsi` `reimplementation` `sr` | 2026-03-14 |
