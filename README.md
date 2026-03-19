@@ -1,15 +1,17 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-18 01:43 UTC** &nbsp;|&nbsp; Total: **37** repositories
+> Last updated: **2026-03-19 01:44 UTC** &nbsp;|&nbsp; Total: **37** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
-| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-17 |
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-17 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-17 |
+| [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` `site` | 2026-03-18 |
+| [hsi-fsc](https://github.com/murphyhoucn/hsi-fsc) | `classification` `few-shot` `hsi` | 2026-03-18 |
+| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-18 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-18 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-18 |
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-16 |
 | [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-16 |
 | [hsi-sr-ethereal](https://github.com/murphyhoucn/hsi-sr-ethereal) | `benchmark` `hsi` `sr` | 2026-03-15 |
@@ -28,8 +30,6 @@
 | [llm-dev](https://github.com/murphyhoucn/llm-dev) | `llm` | 2026-03-14 |
 | [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
 | [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
-| [hsi-fsc](https://github.com/murphyhoucn/hsi-fsc) | `classification` `hsi` | 2026-03-14 |
-| [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` | 2026-03-14 |
 | [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-03-14 |
 | [dip-cuda](https://github.com/murphyhoucn/dip-cuda) | `cuda` | 2026-03-14 |
 | [hsi-sr-overview](https://github.com/murphyhoucn/hsi-sr-overview) | `hsi` `overview` `sr` | 2026-03-14 |
