@@ -1,15 +1,16 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-03-22 01:42 UTC** &nbsp;|&nbsp; Total: **37** repositories
+> Last updated: **2026-03-23 01:44 UTC** &nbsp;|&nbsp; Total: **37** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-22 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-22 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-22 |
 | [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-21 |
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-03-21 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-03-21 |
 | [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-03-20 |
 | [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` `site` | 2026-03-18 |
 | [hsi-fsc](https://github.com/murphyhoucn/hsi-fsc) | `classification` `few-shot` `hsi` | 2026-03-18 |
@@ -17,7 +18,6 @@
 | [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-16 |
 | [hsi-sr-ethereal](https://github.com/murphyhoucn/hsi-sr-ethereal) | `benchmark` `hsi` `sr` | 2026-03-15 |
 | [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-15 |
-| [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-15 |
 | [academic-cv](https://github.com/murphyhoucn/academic-cv) | `curriculum-vitae` `latex-template` `resume` | 2026-03-15 |
 | [hsi-sr-apricity](https://github.com/murphyhoucn/hsi-sr-apricity) | `diffusion-model` `hsi` `sr` | 2026-03-14 |
 | [yanputhesis-2026](https://github.com/murphyhoucn/yanputhesis-2026) | `thesis-latex-template` | 2026-03-14 |
