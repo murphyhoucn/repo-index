@@ -1,22 +1,22 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-10-01 03:28 UTC** &nbsp;|&nbsp; Total: **39** repositories
+> Last updated: **2026-10-02 03:28 UTC** &nbsp;|&nbsp; Total: **39** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-10-01 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-10-01 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-10-01 |
 | [nanoGPT-reimpl](https://github.com/murphyhoucn/nanoGPT-reimpl) | `llm` `reimplementation` | 2026-09-30 |
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-09-30 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-09-30 |
 | [npu-server-monitor](https://github.com/murphyhoucn/npu-server-monitor) | - | 2026-04-19 |
 | [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-04-15 |
 | [handy-shell-scripts](https://github.com/murphyhoucn/handy-shell-scripts) | `shell-script` | 2026-03-30 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-03-23 |
 | [gen-serials-reimpl](https://github.com/murphyhoucn/gen-serials-reimpl) | `reimplementation` | 2026-03-23 |
 | [dive-into-cv](https://github.com/murphyhoucn/dive-into-cv) | `archive` `cv` | 2026-03-23 |
-| [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-03-21 |
 | [archived-personal-site](https://github.com/murphyhoucn/archived-personal-site) | `archive` `site` | 2026-03-18 |
 | [hsi-fsc](https://github.com/murphyhoucn/hsi-fsc) | `classification` `few-shot` `hsi` | 2026-03-18 |
 | [hsi-data-enigma](https://github.com/murphyhoucn/hsi-data-enigma) | `dataset` `hsi` | 2026-03-16 |
