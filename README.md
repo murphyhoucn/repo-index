@@ -1,14 +1,15 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-10-27 03:10 UTC** &nbsp;|&nbsp; Total: **38** repositories
+> Last updated: **2026-10-28 03:25 UTC** &nbsp;|&nbsp; Total: **38** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-10-26 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-10-26 |
+| [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-10-27 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-10-27 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-10-27 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-10-04 |
 | [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-10-01 |
 | [npu-server-monitor](https://github.com/murphyhoucn/npu-server-monitor) | - | 2026-04-19 |
@@ -32,7 +33,6 @@
 | [llm-dev](https://github.com/murphyhoucn/llm-dev) | `llm` | 2026-03-14 |
 | [ouc-code-snippets](https://github.com/murphyhoucn/ouc-code-snippets) | `archive` | 2026-03-14 |
 | [npu-code-snippets](https://github.com/murphyhoucn/npu-code-snippets) | `archive` | 2026-03-14 |
-| [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-03-14 |
 | [dip-cuda](https://github.com/murphyhoucn/dip-cuda) | `cuda` | 2026-03-14 |
 | [hsi-sr-overview](https://github.com/murphyhoucn/hsi-sr-overview) | `hsi` `overview` `sr` | 2026-03-14 |
 | [genealogy-hou](https://github.com/murphyhoucn/genealogy-hou) | `site` `vercel` | 2026-03-14 |
