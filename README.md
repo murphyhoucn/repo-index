@@ -1,14 +1,16 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-10-29 03:47 UTC** &nbsp;|&nbsp; Total: **38** repositories
+> Last updated: **2026-10-30 03:50 UTC** &nbsp;|&nbsp; Total: **40** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
-| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-10-28 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-10-28 |
+| [mllm-virgo](https://github.com/murphyhoucn/mllm-virgo) | - | 2026-10-30 |
+| [promptlet](https://github.com/murphyhoucn/promptlet) | - | 2026-10-30 |
+| [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-10-29 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-10-29 |
 | [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-10-27 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-10-04 |
 | [omni-isle](https://github.com/murphyhoucn/omni-isle) | - | 2026-10-01 |
