@@ -1,19 +1,19 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-11-02 03:45 UTC** &nbsp;|&nbsp; Total: **41** repositories
+> Last updated: **2026-11-03 04:50 UTC** &nbsp;|&nbsp; Total: **41** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [promptlet](https://github.com/murphyhoucn/promptlet) | - | 2026-11-03 |
+| [mllm-virgo](https://github.com/murphyhoucn/mllm-virgo) | - | 2026-11-03 |
+| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-11-02 |
 | [qq-whisper](https://github.com/murphyhoucn/qq-whisper) | - | 2026-11-01 |
 | [omniisle](https://github.com/murphyhoucn/omniisle) | - | 2026-11-01 |
 | [murphyhoucn](https://github.com/murphyhoucn/murphyhoucn) | `actions` `profile` | 2026-11-01 |
 | [mllm-carina](https://github.com/murphyhoucn/mllm-carina) | - | 2026-11-01 |
-| [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-11-01 |
-| [mllm-virgo](https://github.com/murphyhoucn/mllm-virgo) | - | 2026-10-30 |
-| [promptlet](https://github.com/murphyhoucn/promptlet) | - | 2026-10-30 |
 | [ticktock-timelapse](https://github.com/murphyhoucn/ticktock-timelapse) | `timelapse` | 2026-10-04 |
 | [npu-server-monitor](https://github.com/murphyhoucn/npu-server-monitor) | - | 2026-04-19 |
 | [blog](https://github.com/murphyhoucn/blog) | `site` | 2026-04-15 |
