@@ -1,12 +1,13 @@
 # murphyhoucn's Repository Index
 
 > Auto-generated index of all repositories owned by **murphyhoucn**.
-> Last updated: **2026-11-19 05:23 UTC** &nbsp;|&nbsp; Total: **41** repositories
+> Last updated: **2026-11-20 05:09 UTC** &nbsp;|&nbsp; Total: **42** repositories
 
 ## Repository List
 
 | Repository | Topics / Tags | Last Updated |
 |:-----------|:--------------|:------------:|
+| [zotero-plugin](https://github.com/murphyhoucn/zotero-plugin) | `zotero` `zotero-plugin` | 2026-11-19 |
 | [repo-index](https://github.com/murphyhoucn/repo-index) | `actions` `index` | 2026-11-12 |
 | [promptlet](https://github.com/murphyhoucn/promptlet) | - | 2026-11-03 |
 | [mllm-virgo](https://github.com/murphyhoucn/mllm-virgo) | - | 2026-11-03 |
